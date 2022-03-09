@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Final project</title>
+    <link rel="stylesheet" type="text/css" href="css.style">
+    <link rel="icon" type="image/jpg" href="C:\Users\user\Desktop\Logo.png">
+    <link rel="stylesheet" href="C:\Users\user\Desktop\CODES\CSS\FINAL PROJECT STYLE.css">
+</head>
+
+<body>
+    <ul class="menu">
+        <li><a href="file:///C:/Users/user/Desktop/CODES/HTML/FINAL%20PROJECT%20INTR%20MEDIA.html#">home</a></li>
+        <li><a href="https://sites.google.com/view/fire-music-productions/home">playlist</a></li>
+        <li><a href="https://youtu.be/tveqSh9s7rA">products</a></li>
+        <li><a href="https://wa.me/message/XJHECOSK7T4FP1">contact</a></li>
+    </ul>
+    <hr>
+    <h1> Fire Music</h1>
+    <hr>
+    <p>are you looking for a professional music producer? fire music has these characteristics contact us we can help you find your sound</p>
+    <p>welcome to fire music this is a website dedicated to learning about music production, sound creation and implementation from a home project to a popular project</p>
+    <h2>look below</h2>
+    <div class="list">
+        <p>Music Producer, Beat Maker, Sound writer, Film Maker</p>
+    </div>
+
+    <div class="imagen1">
+        <img src="https://images.unsplash.com/photo-1518972559570-7cc1309f3229?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bXVzaWMlMjBwcm9kdWNlcnxlbnwwfHwwfHw%3D&w=1000&q=80" alt="imagen1">
+    </div>
+    <div>
+        <h3>you can find a playlist of our work below</h3>
+    </div>
+    <div class="playlist">
+        <a href="https://sites.google.com/view/fire-music-productions/home">playlist</a>
+    </div>
+    <div class="muestra">
+        <img src="https://d10j3mvrs1suex.cloudfront.net/u/564560/1261a47f0a9fd59528257dadb30924a8efeee084/original/img-2074.jpeg/!!/b%3AW1siZXh0cmFjdCIseyJsZWZ0Ijo0ODMsInRvcCI6MCwid2lkdGgiOjMwMjQsImhlaWdodCI6MzAyNH1dLFsicmVzaXplIiwxMDAwXSxbIm1heCJdLFsid2UiXV0%3D/meta%3AeyJzcmNCdWNrZXQiOiJiemdsZmlsZXMifQ%3D%3D.jpg"
+            alt="Muestra">
+        <img src="https://influencerexchange.app/wp-content/uploads/sites/4/2021/11/dj-1-1000x1000.jpg" alt="muestra 2">
+        <img src="https://images.squarespace-cdn.com/content/v1/55e4bbdae4b0ae5c1abf94f2/1605884522569-K0F5EU1ZX4JW9BAE0AP4/image-asset.jpeg?format=1000w" alt="muestra 3">
+        <img src="https://shoutoutla.com/wp-content/uploads/2021/10/c-PersonalGrantDacklinDXCKLIN__DSC05394_1634935024034.jpg" alt="muestra4">
+        <hr>
+    </div>
+    <h6>A first level Music Producer</h6>
+    <p>Itsjblass currently produces music for a wide variety of artists. World's Most Recognized Music Producer in Indianapolis, Itsjblass has worked with many artists, music producers and emerging artists to help them with their music productions. Browse
+        the website to learn more about Itsjblass.</p>
+    <div>
+        <h4>contact us</h4>
+        <p>itsjblass@gmail.com</p>
+        <p>317-6*8-**74</p>
+    </div>
+    <p>Redes</p>
+    <hr>
+    <div class="Logos">
+        <img src="https://www.freeiconspng.com/thumbs/facebook-logo-png/photos-facebook-logo-png-transparent-background-13.png" alt="facebook-logo-png">
+        <img src="http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" alt="instagram-logo-png">
+        <img src="https://pngimg.com/uploads/youtube/youtube_PNG9.png" alt="youtube-logo-png">
+    </div>
+    <h5>map</h5>
+    <hr>
+    <div class="map">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d392474.1215392592!2d-86.41294988977653!3d39.77997538147466!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x886b50ffa7796a03%3A0xd68e9df640b9ea7c!2sIndianapolis%2C%20IN!5e0!3m2!1sen!2sus!4v1646660999601!5m2!1sen!2sus"
+            width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+    </div>
+</body>
+
+</html>
